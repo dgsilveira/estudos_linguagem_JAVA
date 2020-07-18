@@ -1,3 +1,3 @@
-Olá,
+#Olá,
 
-Eu tenho utilizado esse repostiório como forma de estudos da linguagem de programação JAVA.
+Eu tenho utilizado esse repositório como forma de estudos da linguagem de programação JAVA.
